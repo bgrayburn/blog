@@ -2,7 +2,7 @@
 title: 'All Technology is Network Technology'
 excerpt: ''
 coverImage: '/assets/blog/centralized_tech/cover.jpg'
-date: '2020-08-31T17:21:00.000Z'
+date: '2020-10-31T17:21:00.000Z'
 author:
   name: Brian Rayburn
   picture: '/assets/blog/authors/jj.jpeg'
